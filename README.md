@@ -1,4 +1,14 @@
-## Hi there 👋
+
+---
+### Connect
+![Gmail](https://img.shields.io/badge/parkjaegun0219@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white) ![Blogger](https://img.shields.io/badge/해결한%20모든것-FF5722?style=flat-square&logo=blogger&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+---
+### OS
+![Windows](https://img.shields.io/badge/Windows11-0078D6?style=flat-square&logo=windows&logoColor=white) ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+---
+### Skill
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+---
 
 <!--
 **Lustiora/Lustiora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
