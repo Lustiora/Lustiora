@@ -1,11 +1,3 @@
-
-```bash
-┏━━━┳━━━┳━━━┳━━━┓   ┳ ┳ ┏━┓ ┳━┓┳━┓┳ ┳   ┳━┓ ┏ ┳━━┓┳  ┳  ┳  ┳ ┳ ┳━┓ ┏━┓ ┳━┓
-┣━━ ┃ ┃ ┣━━ ┃ ━━┫   ┣━┫ ┣━┫ ┣━┛┣━┛┗┳┛   ┃ ┃ ┃ ┣━━ ┃  ┃  ┃  ┗┳┛ ┣━  ┣━┫ ┣┳┛
-┃ ━━┫ ┃ ┃ ━━┫ ┃ ┃   ┻ ┻ ┛ ┗ ┻  ┻   ┻    ┛ ┗━┻ ┻━━┛┗━ ┻ ━┛   ┻  ┻━┛ ┛ ┗ ┻┗┛
-┗━━━┻━━━┻━━━┻━━━┛
-```
-
 ### Connect
 <a href="mailto:parkjaegun0219@gmail.com" target="_blank"><img src="https://img.shields.io/badge/parkjaegun0219@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://jg96patch.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/해결한%20모든것-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>
