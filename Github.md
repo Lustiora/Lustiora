@@ -13,6 +13,10 @@ git commit -m "Project Reset"
 git remote add origin [Repositories Link]
 git push -u origin main
 ```
+* **Update**
+```bash
+git pull origin main
+```
 * **Edit**
 ```bash
 git add .
