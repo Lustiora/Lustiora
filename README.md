@@ -5,6 +5,17 @@
 <a href="https://jg96patch.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/해결한%20모든것-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>
 <a href="https://github.com/Lustiora/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
 
+ 
+
+. |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|<br>
+　|　After I finish the [Python-Admin_Dashboard project](https://github.com/Lustiora/Python-Admin_Dashboard),　|<br>
+　|　I plan to build a system from scratch,　　 　　　　　|<br>
+　|　starting with the database table design　・・・。 　 |<br>
+　|　　　　　　　　　　　　　　　　　　　　　　 　　|<br>
+　￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣＼|￣￣<br>
+
+
+
 ---
 
 ### OS
