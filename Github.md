@@ -5,6 +5,8 @@
 * **Private Repositories Link**
 [Tokens](https://github.com/settings/tokens) > `https://[Tokens]@github.com/[Nickname]/[Repositories Name].git`
 
+* [JetBrains IDE에서 "Squash Commits..." 메뉴가 비활성화된 경우](https://blog.naver.com/techshare/223071617477)
+
 * **New**
 ```bash
 git init
