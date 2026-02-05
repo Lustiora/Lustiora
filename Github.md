@@ -19,6 +19,12 @@ git push -u origin main
 ```bash
 git pull origin main
 ```
+* **Commit Edit**
+```bash
+git add .
+git commit --amend --no-edit
+git push -f origin main
+```
 * **Edit**
 ```bash
 git add .
