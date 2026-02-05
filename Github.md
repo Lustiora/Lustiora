@@ -19,17 +19,23 @@ git push -u origin main
 ```bash
 git pull origin main
 ```
+* **Commit**
+```bash
+git add .
+git commit -m "commit"
+git push -u origin main
+
+# Cancle
+git reset
+```
 * **Commit Edit**
 ```bash
 git add .
 git commit --amend --no-edit
 git push -f origin main
-```
-* **Edit**
-```bash
-git add .
-git commit -m "commit"
-git push -u origin main
+
+# Cancle
+git reset
 ```
 * **Command**
 ```bash
