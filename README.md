@@ -1,4 +1,4 @@
-[![My GitHub Stats](https://github-readme-stats-two-alpha-86.vercel.app/api?username=Lustiora&show_icons=true&theme=dracula)](https://github.com/Lustiora)
+[![My GitHub Stats](https://github-readme-stats-two-alpha-86.vercel.app/api?username=Lustiora&show_icons=true&theme=dracula&v=1)](https://github.com/Lustiora)
 
 ### Connect
 <a href="mailto:parkjaegun0219@gmail.com" target="_blank"><img src="https://img.shields.io/badge/parkjaegun0219@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
