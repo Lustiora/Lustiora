@@ -176,6 +176,129 @@
   
   </details>
 
+  <details><summary>Git Commits History Clean</summary>
+
+  ```bash
+  # git log --all --graph --decorate --oneline
+  * 802d771 (HEAD -> main, origin/main, origin/HEAD) Search Rental GUI View Clear
+  * 0384956 Test GUI PostgreSQL Connect
+  * 1d57720 Search Rental 모듈 분리 및 Hot Reload 기능 추가
+  * 8d13771 test Search Rental 설계중
+  * 6c82a35 test Window Update
+  * d545106 workflow 분리
+  * 95d5713 3. Search Modules (Core Features) C. Rental Search 추가 (Film Search 제거)
+  * 8d9c435 input event 이후 포커스 연결
+  * 5d340a3 view_search_film => view_search_inventory 통합
+  * 73b6813 search query 분리 및 search inventory 재설계 완료
+  * 3f0a73f  Search Inventory: View Table 재생성 및 쿼리 재설정 / 재설계중 tuple index out of range
+  * 2674806 Search Customer: 검색 화면 재설계 (ID or Name (First or Last Name))
+  * f652c27 Customer ID Query Update 및 IF문으로 출력물에 따른 색상 변동 기능 추가
+  * cd80402 Hard wrap guide
+  * ebbf988 query_current_status module query 단축 및 점포에만 존재하는 재고를 출력
+  * f2bb05f Improved variable and function names
+  * d6bab30 Update Roadmap
+  * 02c6c4d Update Readme.md
+  * d9562fc Update Basic Logic 2.1
+  * c44e736 Search Customer Name > store_id + All Status
+  * d6e6c0d Variable Name Change
+  * 6f1c86a Search Film Module Create
+  * 26302ce Search Inventory Module Create
+  * 88211f6 Hot Reload Test Create
+  * 01d580b Workflow Update
+  * e6656c2 Search Customer 모듈 분할 완료
+  * a27e40e Search Customer 작성 > search_customer 모듈 분할 필요
+  * abca10e Search Customer 작성중
+  * 95db172 Tile Menu Create
+  * bb4f264 Loading Time Force, 1초 지연 옵션, Close 무한 루프 방지
+  * 1e56aef Test Nav Tile
+  * 5e45bef Status Bar
+  * 42533d0 Test
+  * 4f18abc Status Bar 연동상태 색상 강조
+  * 959d043 delete
+  * cc05f03 db_connect, staff_login TextField autofocus=True 추가
+  * 3251aaa Auto Login 시작 시 Connecting to Database Text 추가
+  * 5188b2e test Sidebar
+  * 723eebc page.window.~ > windows Issue 해결
+  * 6349827 DB Connect ~ Main 까지 이어지는 과정 최적화 / DB Monitor > Main Window 연결
+  * ec38b04 Linux Flet 호환성 옵션 추가
+  * 71292e4 Basic Logic 2.1 Flet GUI
+  * 365ef18 Basic Logic 2.0 End
+  * 5eb20c7 Rename
+  * 105f793 custom tkinter 사용을 위한 demo
+  * 9d9997f Theme Change
+  * aecac99 tkinter > customtkinter 변환
+  * 8924ba0 tkinter > customtkinter 변환전 backup
+  * 9303651 Import Package 가독성 정리
+  * da9a7d1 차후 테마 적용을 위한 Menubar Theme 추가
+  * 8dd2401 차후 테마 적용을 위한 Class Colors 추가
+  * b1e174f Menubar Status_Frame Login Staff 표시 staff_login > main_window
+  * eeb9562 Folder 정리
+  * 396ce85 Menubar Module 별도 py 분리 (Sub Frame change, delete, add)
+  * a09c97e start_move, on_drag 이전
+  * 529159f Menubar Module 별도 py 분리 (Sub Frame search)
+  * 74bc3dc Linux Compile Test >> Clear
+  * 9325eca Update Windows Sandbox Test
+  * 380e9e3 Windows EXE Compile Restart Error Debug
+  * 2cb8b47 Update Workflow
+  * 72f7c0d Update + os.chdir(current_dir)
+  * 3edcd61 Linux에서 재시작이 성공했으나 Windows에서 재시작이 실패 > 사용하는 os를 확인하는 logic을 추가하여 시도 방법 분기 + connect test 모듈을 차후 재사용가능하게끔 분리
+  * 9714358 Linux_Sakila_Basic_Logic_2_3
+  * 594f3a8 Linux : DB Disconnect Restart Debug + Status Bar 구현
+  * 933420e center_window_delayed Debug resizable=False > None
+  * c5a46bd Window Array Middle Debug
+  * 1fc989a Linux 호환 설정 if sys.platform == "win32":
+  * 57873d0 전역변수, 구분 주석, DB Connect 5s Test, 연결 실패시 db_connect.py 연결 추가
+  * c6fdddd change Messagebox.showinfo > showerror
+  * 5e7a418 메뉴바 작성, main_window 활성화 시 staff_login 종료 로직 수정
+  * 6e38a82 주석 수정
+  * b7c2355 Main_window GUI 구현중
+  * f606313 Update center_window / resizable + min_size
+  * fdf5ad7 Update center_window / resizable
+  * d36e1db Rename main.py > main_window.py
+  * 5e75a84 Update README.md
+  * 932c830 Decode Fail : Last > First
+  * 933f575 Update Image
+  * 63fe480 Image Upload
+  * 1add880 if print "Not Connected Time Out" 순서 오류 수정
+  * a99f14c 주석 추가
+  * bdea92c 저장정보 암호화 Logic 추가
+  * 2ec63b9 staff_login.py 구현 완료  Basic Logic 2.0 / 1. Login Logic 완료
+  * 3362641 save_config edit : if/else Delete
+  * 17588dd Login Config Module 구현 완료 / DB 연결시 ini을 저장+ 재연결시 ini을 확인하여 자동 입력
+  * 1a42a38 Login Logic 구현중
+  * 084a3d4 Login Logic 구현중 > Load Config Module Error
+  * cb7dac0 Update Basic Logic 2.0 Roadmap Create
+  * c7ac4a1 Rename project from 'Python-Sakila-Manager' to 'Python-Sakila'
+  * e4fb66e Expand README with future logic and improvement details
+  * 5e6b49f 구조 변경을 통한 동작 흐름 최적화
+  * 5aa5ccb Update
+  * 7a136b7 실행시 포커스 이탈 수정 + Sakila Manager Window 강제 포커스 고정
+  * b883d5a 결제기능 구현 + 연체료와 대여료를 합산하여 결제도 가능 + 전역변수 추가
+  * db67a2b 키보드 입력 최적화
+  * 09f64c3 DVD 목록 검색기능 + 계산 버튼 추가
+  * be92ac0 Update .gitignore
+  * aad9564 미반납 자료가 없는 경우 출력되는 부분 추가
+  * 144376a Delete .idea directory
+  * ddc7ea2 Create .gitignore
+  * 5bdf2ab 외부 접속 테스트 > 성공
+  * ad8aec5 Main 모듈 + 고객번호 입력값 검사 (숫자입력강제) > 고객 검색 화면 구성 + 미반납이력 출력
+  * 89138d4 Main 모듈 + 입력값 검사 > 고객 검색 화면 구성
+  * 08a58b9 Login 가능횟수(3) 지정, Window 중앙 정렬 Module 추가
+  * 312d594 Login GUI 구현
+  * 2a47c89 GUI Create Test
+  * 9b72473 Film Cart, Film Cart List, Total Fee
+  * 9bb1727 대여 모듈 장바구니 기능 추가
+  * b06d3e5 대여 모듈 추가
+  * f21ce79 스파게티 코드의 모듈화 , 사용자 확인 구간에서 종료 커맨드 추가
+  * 86eef4e Rename login.py to main_test1.py
+  * 8f29df2 Full Return List
+  * 46531ae Return List = 1 , >= 1
+  * 863c36d CLI v1 Return DVD List 추가필요
+  * 5b5eb76 CLI v1
+  ```
+
+  </details>
+
 ## 1단계: 무한 충돌 해결 (불도저 스크립트)
 
 수백 개의 커밋을 가져오는데 파일 이름 변경 등으로 충돌이 계속 날 때, **"묻지도 따지지도 말고 진행시켜"** 하는 스크립트입니다.
